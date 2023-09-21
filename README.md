@@ -22,4 +22,4 @@ Tests folder contains various test files used for testing implemented functional
 
 Utils folder contains files like middleware.js for creating middlewares, for_testing.js used to create functions for learning web apps testing, logger.js for printing info and error about various processes in the app to the console and config.js that defines the port the application is run on and connects the app to MongoDB based on the mode the app is run in (test or dev mode).
 
-Other files include: .env file for creating environment variables, eslintrc.js for eslint configuration, index.js for starting up the server and app.js to connect all routers together, middleware to files they're needed in and connect the app to MongoDB database .
+Other files include: .env file for creating environment variables, eslintrc.js for eslint configuration, index.js for starting up the server and app.js to connect all routers together, middleware to files they're needed in and connect the app to MongoDB database.
